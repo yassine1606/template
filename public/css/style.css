@@ -1,0 +1,41 @@
+
+nav{
+    background-color: rgb(6, 2, 26);
+    padding: 10px;
+}
+#all{
+    width: 70vw;
+    height: 100vh;
+    margin-left: 20%;
+}
+#GrandDiv{
+    display: flex;
+    justify-content: space-between;
+}
+#divImg1{
+    display: flex;
+}
+#divImg1 div{
+    color: white;
+    font-size: 15px;
+    width: 100px;
+    text-align: center;
+    padding-left: 5px;
+}
+#imgSec2{
+    margin-left: 10%;
+}
+#div2{
+    padding: 2%;
+    background-color: rgba(51,77,92,255);
+    display: flex;
+}
+#t2{
+    color: white;
+    font-size: 50px; 
+    margin-left: 3%;
+}
+#spanT2{
+    color: white;
+    font-size: 30px;
+}
